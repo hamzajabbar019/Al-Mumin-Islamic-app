@@ -1,0 +1,5 @@
+{
+  "name": "Al-Mumin",
+  "description": "A modern all-in-one Islamic lifestyle application for prayer times, Quran, Azkar, and more.",
+  "requestFramePermissions": ["geolocation", "notifications"]
+}

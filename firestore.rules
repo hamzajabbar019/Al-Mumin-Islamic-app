@@ -1,0 +1,33 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper Functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function isValidZakatCalculation(data) {
+      return data.keys().hasAll(['uid', 'totalWealth', 'zakatAmount', 'createdAt']) &&
+             data.uid is string &&
+             data.totalWealth is number &&
+             data.zakatAmount is number &&
+             data.createdAt is string;
+    }
+
+    // Zakat Calculations
+    match /zakat_calculations/{calculationId} {
+      allow read: if isAuthenticated() && resource.data.uid == request.auth.uid;
+      allow create: if isAuthenticated() && request.resource.data.uid == request.auth.uid && isValidZakatCalculation(request.resource.data);
+      allow update, delete: if false; // Calculations are immutable for now
+    }
+
+    // Default deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

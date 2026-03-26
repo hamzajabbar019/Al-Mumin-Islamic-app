@@ -1,0 +1,27 @@
+{
+  "entities": {
+    "ZakatCalculation": {
+      "title": "Zakat Calculation",
+      "description": "A record of a user's Zakat calculation",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "The user ID of the owner" },
+        "cash": { "type": "number", "description": "Cash and savings" },
+        "gold": { "type": "number", "description": "Gold value" },
+        "silver": { "type": "number", "description": "Silver value" },
+        "investments": { "type": "number", "description": "Investments" },
+        "debts": { "type": "number", "description": "Debts to pay" },
+        "totalWealth": { "type": "number", "description": "Total wealth calculated" },
+        "zakatAmount": { "type": "number", "description": "Payable Zakat amount" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "When the calculation was saved" }
+      },
+      "required": ["uid", "totalWealth", "zakatAmount", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/zakat_calculations/{calculationId}": {
+      "schema": "ZakatCalculation",
+      "description": "Collection of Zakat calculations"
+    }
+  }
+}
