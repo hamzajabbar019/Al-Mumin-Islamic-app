@@ -1,20 +1,12 @@
 
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-33-56" src="https://github.com/user-attachments/assets/2f7dc38d-5e28-443d-b2dc-75b72d79e15f" />
-
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-07" src="https://github.com/user-attachments/assets/d942b12f-8108-42ee-860b-6905d0fc4039" />
-
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-18" src="https://github.com/user-attachments/assets/75d16c4a-cd61-4756-a72d-36907a92800c" />
-
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-43" src="https://github.com/user-attachments/assets/adf0ffce-da7b-43f1-9927-d2d34c1b12c2" />
-
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-51" src="https://github.com/user-attachments/assets/2051cc0c-f1f1-4bc7-8bb9-2a58b578ae60" />
-
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-56" src="https://github.com/user-attachments/assets/96a349b3-7632-4c9f-9376-3e99904551d7" />
-
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-35-03" src="https://github.com/user-
-attachments/assets/50913e11-8a52-424d-a00c-0a0b4b7d83f3" />
-
-<img width="363" height="598" alt="Screenshot from 2026-03-27 00-35-09" src="https://github.com/user-attachments/assets/cc97e032-051d-4c70-b2f3-bac1263e7354" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-33-56" src="https://github.com/user-attachments/assets/a84cfbce-b464-4069-bf4a-ca0ed2b6b2e6" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-07" src="https://github.com/user-attachments/assets/e3f8b7bb-9a6d-4e6b-82be-2b4a82d8fc78" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-18" src="https://github.com/user-attachments/assets/cddecbd9-3416-4351-9955-da0c700022f9" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-43" src="https://github.com/user-attachments/assets/d0c9088a-4d08-4394-b4a7-205248cd93a4" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-51" src="https://github.com/user-attachments/assets/0756a990-32eb-4cbd-ae83-2a9a0fb24c0f" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-34-56" src="https://github.com/user-attachments/assets/bb616411-38e7-428c-92c5-1266893a083e" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-35-03" src="https://github.com/user-attachments/assets/a9e15b5d-c8a9-447f-a2dc-ff34f92a4951" />
+<img width="363" height="598" alt="Screenshot from 2026-03-27 00-35-09" src="https://github.com/user-attachments/assets/c254cb76-efc5-45a1-bc71-9a35587ad30a" />
 
 
 🕌 Al-Mumin Islamic App
