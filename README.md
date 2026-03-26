@@ -24,18 +24,17 @@ Git (optional, for cloning)
 Code Editor (Recommended: VS Code)
 👉 https://code.visualstudio.com
 🚀 Installation Guide
-1️⃣ Get the Code
 
+1️⃣ Get the Code
 You can download or clone the project:
 
 🔹 Option A: Download ZIP
 Export/download the project as a ZIP file
 Extract it to your desired folder
 🔹 Option B: Clone via GitHub
-git clone https://github.com/YOUR_USERNAME/al-mumin-islamic-app.git
-cd al-mumin-islamic-app
-2️⃣ Install Dependencies
+git clone https://github.com/hamzajabbar019/al-mumin-islamic-app.git
 
+2️⃣ Install Dependencies
 Open terminal in the project folder and run:
 
 npm install
@@ -44,16 +43,7 @@ This will install all required packages (React, Tailwind, Gemini SDK, etc.).
 
 3️⃣ Setup Environment Variables
 
-Create a .env file in the root directory and add:
-
-GEMINI_API_KEY="YOUR_ACTUAL_API_KEY_HERE"
-APP_URL="http://localhost:3000"
-
-🔑 Get your free Gemini API key from:
-👉 https://aistudio.google.com
-
 4️⃣ Run the Development Server
-
 Start the application:
 
 npm run dev
@@ -62,6 +52,7 @@ This will run:
 
 ⚙️ Express Backend
 🎨 Vite Frontend
+
 5️⃣ Access the App
 
 Open your browser and visit:
@@ -89,6 +80,6 @@ Linux/Mac:
 ifconfig
 Open on mobile browser:
 http://YOUR_PC_IP:3000
-✅ You're All Set!
 
+✅ You're All Set!
 You now have a fully functional Al-Mumin Islamic App running locally 🎉
